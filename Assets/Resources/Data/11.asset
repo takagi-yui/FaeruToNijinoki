@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84763d299c0b9e149bf94f3a0b3a174e, type: 3}
+  m_Name: 11
+  m_EditorClassIdentifier: 
+  number: 11
+  monsterName: "\u30AC\u30E9\u30C3\u30AF"
+  maxHP: 50
+  attack: 20
+  speed: 130
+  isFlying: 0
+  skillName: "\u3058\u3057\u3093"
+  skillText: "\u305D\u3089\u3092\u3068\u3093\u3067\u3044\u306A\u3044\u3000\u30E2\u30F3\u30B9\u30BF\u30FC\u3092\u3000\u3053\u3046\u3052\u304D"
+  skillPower: 10
+  skillEnergy: 2000
+  targetType: 0
+  targetSize: 0
+  getEXP: 20
+  friend: 10
