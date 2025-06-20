@@ -6,6 +6,7 @@
 
 本作品はUnityインターハイ2018に応募した個人制作ゲームです。
 
+![ファエルと虹の木](https://github.com/user-attachments/assets/d1c07f47-d23e-45ca-bfc4-33a40ec3e136)
 <!--
 スクリーンショットやプレイ動画などがあれば、ここに追加する。
 GitHubのWeb上でREADME.mdを編集するとき、画像ファイルを直接ドラッグ＆ドロップで貼り付け可能
